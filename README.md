@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Vedanth and I'm a curious individual who is ready to take challenges.</h2>
+<h2 align="left">Hi! My name is Vedanth and welcome to my github. What brings you here?</h2>
 
 ###
 
