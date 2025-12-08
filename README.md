@@ -1,26 +1,29 @@
-<h2 align="left">Hi, I'm Vedanth — Developer | GenAI Enthusiast | RPA Automator</h2>
+<div align="left">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FFFFFF&center=false&width=600&lines=Hi+I+am+Vedanth;Python+Developer;GenAI+Enthusiast;RPA+Automator"/>
+</div>
 
-💡 I build backend systems, automation bots, and GenAI-powered solutions that **reduce workload, save time, and create real business impact**.  
-🎯 Currently sharpening backend engineering skills in **FastAPI, async Python, scalable service design & DevOps**.
+> “If you’re not automating the boring stuff, what are you even doing?”
+- I build backend systems, automation bots, and GenAI-powered solutions that **reduce workload, save time, and create real business impact**.  
+- Currently sharpening backend engineering skills in **FastAPI, async Python, scalable service design & DevOps**.
 
 ---
 
-### 📊 GitHub Analytics
+>###  GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vedanthsahu&theme=dracula&hide_border=true" height="150" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vedanthsahu&theme=dracula&hide_border=true" height="150" alt="streak graph"/>
 </div>
 
 ---
 
-### 🚀 Highlights
+>### Highlights
 
 ✔ Delivered GenAI platform POC  
-• Hybrid semantic search (Milvus + Elasticsearch)  
-• Ticket automation with ServiceNow API  
-• LangChain / LangGraph orchestration  
-• State management with MongoDB + Redis  
-• S3 document ingestion & chunking strategies
+- Hybrid semantic search (Milvus + Elasticsearch)  
+- Ticket automation with ServiceNow API  
+- LangChain / LangGraph orchestration  
+- State management with MongoDB + Redis  
+- S3 document ingestion & chunking strategies
 
 ✔ Built enterprise RPA automation with **UiPath**  
 ✔ Backend & API integrations with Python  
@@ -28,45 +31,32 @@
 
 ---
 
-### 🛠️ Tech Stack
+>###  Tech Stack
 
 #### Languages & Frameworks
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Databases & Storage
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Cloud & DevOps
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-</div>
+#### Cloud / DevOps / Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Additional Skills
+#### **Additional Skills**
 - UiPath RPA | GenAI | LangChain | RAG systems
 - REST APIs | JWT Auth | Logging & Monitoring
 - Asynchronous Python | Packaging & CI/CD basics
 
 ---
 
-### 📫 Connect with Me
+>###  Connect with Me
 
 <div>
   <a href="mailto:vedanthsahu100@gmail.com" target="_blank">
@@ -77,7 +67,4 @@
   </a>
 </div>
 
----
-
-💬 “If you’re not automating the boring stuff, what are you even doing?”
 
