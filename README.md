@@ -11,7 +11,13 @@
 >###  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vedanthsahu&theme=dracula&hide_border=true" height="150" alt="streak graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedanthsahu&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vedanthsahu&theme=dracula&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthsahu&theme=dracula&hide_border=true&layout=compact" height="160"/>
+
 </div>
 
 ---
