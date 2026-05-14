@@ -1,5 +1,5 @@
 <div align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FFFFFF&center=false&width=600&lines=Hi+I+am+Vedanth;Python+Developer;GenAI+Enthusiast;RPA+Automator"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=000000&center=false&width=600&lines=Hi+I+am+Vedanth;Python+Developer;GenAI+Enthusiast;RPA+Automator"/>
 </div>
 
 > “If you’re not automating the boring stuff, what are you even doing?”
