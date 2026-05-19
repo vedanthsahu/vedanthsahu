@@ -33,8 +33,6 @@
 - Context-grounding improvements  
 - Chunking & metadata-aware retrieval  
 
-✔ Built enterprise automation workflows with **UiPath**  
-✔ Presented technical implementations in VP-level demos  
 
 ---
 
