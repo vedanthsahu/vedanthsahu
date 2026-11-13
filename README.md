@@ -7,14 +7,6 @@
 - I build backend systems, retrieval pipelines, and enterprise AI workflows focused on orchestration, conversational continuity, and operational reliability.
 - Currently deepening expertise in **FastAPI, async Python, concurrency-safe backend design, multi-agent orchestration, and retrieval systems**.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedanthsahu/vedanthsahu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedanthsahu/vedanthsahu/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vedanthsahu/vedanthsahu/output/github-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ### GitHub Analytics
@@ -59,21 +51,10 @@
 
 ### Featured Projects
 
-<div align="center">
-  <a href="https://github.com/vedanthsahu/sales_agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedanthsahu&repo=sales_agent&theme=dracula&hide_border=true" height="150"/>
-  </a>
-  <a href="https://github.com/vedanthsahu/Smooch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedanthsahu&repo=Smooch&theme=dracula&hide_border=true" height="150"/>
-  </a>
-  <br/>
-  <a href="https://github.com/vedanthsahu/Learning-Quest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedanthsahu&repo=Learning-Quest&theme=dracula&hide_border=true" height="150"/>
-  </a>
-  <a href="https://github.com/vedanthsahu/llm-council">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedanthsahu&repo=llm-council&theme=dracula&hide_border=true" height="150"/>
-  </a>
-</div>
+- **[sales_agent](https://github.com/vedanthsahu/sales_agent)** — FastAPI + Milvus + MongoDB + Gemini RAG sales assistant with custom chunking and token-budget-aware retrieval
+- **[Smooch](https://github.com/vedanthsahu/Smooch)** — AI-assisted incident command system design: adaptive reasoning escalation, risk-tiered tool execution, reproducible failure-injection simulator
+- **[Learning-Quest](https://github.com/vedanthsahu/Learning-Quest)** — gamified reader/tracker app for self-authored technical handbooks
+- **[llm-council](https://github.com/vedanthsahu/llm-council)** — multi-LLM ensemble: fan-out across models, cross-review, chairman synthesis
 
 > More project repos are private for now — ask if you'd like a walkthrough, or check back as they go public.
 
