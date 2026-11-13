@@ -49,17 +49,6 @@
 
 ---
 
-### Featured Projects
-
-- **[sales_agent](https://github.com/vedanthsahu/sales_agent)** — FastAPI + Milvus + MongoDB + Gemini RAG sales assistant with custom chunking and token-budget-aware retrieval
-- **[Smooch](https://github.com/vedanthsahu/Smooch)** — AI-assisted incident command system design: adaptive reasoning escalation, risk-tiered tool execution, reproducible failure-injection simulator
-- **[Learning-Quest](https://github.com/vedanthsahu/Learning-Quest)** — gamified reader/tracker app for self-authored technical handbooks
-- **[llm-council](https://github.com/vedanthsahu/llm-council)** — multi-LLM ensemble: fan-out across models, cross-review, chairman synthesis
-
-> More project repos are private for now — ask if you'd like a walkthrough, or check back as they go public.
-
----
-
 ### Tech Stack
 
 #### Languages & Frameworks
